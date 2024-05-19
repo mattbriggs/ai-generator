@@ -1,4 +1,4 @@
- AI Response Generator
+# AI Response Generator
 
 This script generates AI responses from prompts specified in a YAML configuration file using OpenAI's GPT-4 model. The responses are saved as standalone Markdown files.
 
