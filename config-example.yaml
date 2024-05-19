@@ -1,0 +1,10 @@
+output_folder: "output"
+context: "Your context here"
+objects:
+  - prompt: "Your AI prompt here"
+    title: "Title for the prompt"
+    filename: "filename.md"
+  - prompt: "Another AI prompt here"
+    title: "Another title"
+    filename: "another_filename.md"
+```
